@@ -1,0 +1,50 @@
+body	{
+	background-image: url('images/bg.png');
+}
+
+.heading {
+    margin-top: 3%;
+    margin-left: 5%;
+    letter-spacing: 4px;
+    color: brown;
+}
+
+#hr	{
+	border-color:#B0B0B0 ;
+}
+
+h3 {
+    font-style: italic;
+}
+
+.registration-form  { 
+    margin-left: 5%;
+    font-family: Trebuchet MS;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+#textbox    {
+    padding: 8px 15px;
+    font-size: 14px;
+    background: #fff;
+    border-radius: 7px;
+}
+
+#textbox:hover {
+    background: #dfe9ec;
+}
+
+#textbox:focus {
+    color: #414848;
+}
+
+label  {
+    font-size: 15px;
+}
+
+.clear  {
+    clear: both;
+    padding: 0;
+    margin: 0;
+}
